@@ -8,8 +8,8 @@
 <br>
 <p align="center">📫 You can reach me - <a href="mailto:devgedion@gmail.com">devgedion@gmail.com</a></p>
 
-<h3 align="center">Connect With Me:</h3>
-<p align="center">
+<h3 align="left">🔗 Connect With Me:</h3>
+<p align="left">
 <a href="https://twitter.com/gediondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gediondev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gedionzewdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gedionzewdu" height="30" width="40" /></a>
 <a href="https://fb.com/gediondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gediondev" height="30" width="40" /></a>
@@ -17,8 +17,8 @@
 <a href="https://www.youtube.com/c/gedion_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gedion_dev" height="30" width="40" /></a>
 </p>
 <br>
-<h3 align="center">Languages & Tools I've Worked With:</h3>
-<p align="center"> 
+<h3 align="left">🛠️ Languages & Tools I've Worked With:</h3>
+<p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
@@ -96,11 +96,11 @@
   </a>
 </p>
 <br>
-<h3 align="center">Statistics:</h3>
+<h3 align="left">📊 Statistics:</h3>
 
 <p>
   <img 
-    align="center" 
+    align="left" 
     width="400" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=gedionzewdu&show_icons=true&locale=en&layout=compact&theme=black-ice&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" 
     alt="Top Languages" 
