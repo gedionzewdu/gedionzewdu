@@ -94,13 +94,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
 </p>
-<br>
-<h3 align="left">📊 Statistics:</h3>
-<p>
-  <img
-    style="float: left;"
-    width="400"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=gedionzewdu&show_icons=true&locale=en&layout=compact&theme=black-ice&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"
-    alt="Top Languages"
-  />
-</p>
