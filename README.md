@@ -7,7 +7,6 @@
 <h4 align="left">📖 Deeply passionate about coding, AI, and mastering the mind.</h4>
 <br>
 <p align="center">📫 You can reach me - <a href="mailto:devgedion@gmail.com">devgedion@gmail.com</a></p>
-
 <h3 align="left">🔗 Connect With Me:</h3>
 <p align="left">
 <a href="https://twitter.com/gediondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gediondev" height="30" width="40" /></a>
@@ -97,12 +96,11 @@
 </p>
 <br>
 <h3 align="left">📊 Statistics:</h3>
-
 <p>
-  <img 
-    align="left" 
-    width="400" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=gedionzewdu&show_icons=true&locale=en&layout=compact&theme=black-ice&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" 
-    alt="Top Languages" 
-  />
+  <img
+    style="float: left;"
+    width="400"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=gedionzewdu&show_icons=true&locale=en&layout=compact&theme=black-ice&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"
+    alt="Top Languages"
+  />
 </p>
