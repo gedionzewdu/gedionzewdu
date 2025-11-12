@@ -1,10 +1,10 @@
 <h1 align="center">Hey 👋, Welcome to My Github Zone!</h1>
-<h4 align="left">👨‍💻 I’m available for cutting-edge mobile apps, full‑stack solutions, and AI‑driven projects.</h4>
+<h4 align="left">👨‍💻 I’m available for full‑stack web apps, mobile apps, and AI‑driven projects.</h4>
 <h4 align="left">👯 Always excited to collaborate on bold, creative, and game‑changing ideas.</h4>
 <h4 align="left">🤝 Seeking exceptional talent? You can easily hire me on Upwork <a href="https://www.upwork.com/freelancers/~01727bf317f83e15ce?mp_source=share" target="_blank" rel="noopener noreferrer">here</a>.
 </h4>
 <h4 align="left">💬 Don’t hesitate to reach out with questions or for expert guidance.</h4>
-<h4 align="left">📖 Deeply passionate about coding, AI, neuroscience, and mastering the mind.</h4>
+<h4 align="left">📖 Deeply passionate about coding, AI, and mastering the mind.</h4>
 <br>
 <p align="center">📫 You can reach me - <a href="mailto:devgedion@gmail.com">devgedion@gmail.com</a></p>
 
