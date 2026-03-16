@@ -6,7 +6,7 @@
 <h4 align="left">💬 Don’t hesitate to reach out with questions or for expert guidance.</h4>
 <h4 align="left">📖 Deeply passionate about coding, AI, and mastering the mind.</h4>
 <br>
-<p align="center">📫 You can reach me - <a href="mailto:devgedion@gmail.com">devgedion@gmail.com</a></p>
+<p align="center">📫 You can reach me - <a href="mailto:contact@gedion.is-a.dev">contact@gedion.is-a.dev</a></p>
 <h3 align="left">🔗 Connect With Me:</h3>
 <p align="left">
 <a href="https://twitter.com/gediondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gediondev" height="30" width="40" /></a>
