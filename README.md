@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Gedion Zewdu</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+(MERN)+Developer;Specialist+Mobile+Developer;Founder+of+Gedion+Dev;AI+Solutions+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+(MERN)+Developer;Specialist+Mobile+App+Developer;AI+Solutions+Architect" alt="Typing SVG" />
 </p>
 
 ---
@@ -8,11 +8,11 @@
 ### 👨‍💻 About Me
 I am a dedicated **Full Stack & Mobile App Developer** with a passion for building scalable digital solutions and AI-driven experiences. Whether it's a high-performance web dashboard or a native mobile experience, I focus on clean code and exceptional UI/UX.
 
-* 🚀 **Currently:** Founding and leading digital innovation at **Gedion Dev**.
+* 🚀 **Professional Identity:** Operating as **Gedion Dev**, delivering premium software and AI solutions.
 * 📱 **Mobile Expertise:** React Native (Cross-platform), Swift (iOS), and Kotlin (Android).
 * 🌐 **Web Expertise:** MERN Stack (MongoDB, Express, React, Node.js) & Next.js.
 * 🤖 **AI Integration:** Leveraging LLMs and Automation to transform business workflows.
-* 🎓 **Instructor:** Teaching the next generation of devs at **Efeson Academy**.
+* 🎓 **Instructor:** Teaching the next generation of developers at **Efeson Academy**.
 
 ---
 
@@ -29,7 +29,7 @@ I am a dedicated **Full Stack & Mobile App Developer** with a passion for buildi
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-#### **Mobile Development**
+#### **Mobile App Development**
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
