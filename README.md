@@ -9,10 +9,10 @@
 I am a dedicated **Full Stack & Mobile App Developer** with a passion for building scalable digital solutions and AI-driven experiences. Whether it's a high-performance web dashboard or a native mobile experience, I focus on clean code and exceptional UI/UX.
 
 * 🚀 **Professional Identity:** Operating as **Gedion Dev**, delivering premium software and AI solutions.
-* 📱 **Mobile Expertise:** React Native (Cross-platform), Swift (iOS), and Kotlin (Android).
 * 🌐 **Web Expertise:** MERN Stack (MongoDB, Express, React, Node.js) & Next.js.
+* 📱 **Mobile Expertise:** React Native (Cross-platform), Swift (iOS), and Kotlin (Android).
 * 🤖 **AI Integration:** Leveraging LLMs and Automation to transform business workflows.
-* 🎓 **Instructor:** Teaching the next generation of developers at **Efeson Academy**.
+* 🎓 **Instructor:** Teaching and mentoring the next generation of developers across various Social Media Platforms.
 
 ---
 
