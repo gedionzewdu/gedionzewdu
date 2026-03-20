@@ -12,7 +12,7 @@ I am a dedicated **Full Stack & Mobile App Developer** with a passion for buildi
 * 🌐 **Web Expertise:** MERN Stack (MongoDB, Express, React, Node.js) & Next.js.
 * 📱 **Mobile Expertise:** React Native (Cross-platform), Swift (iOS), and Kotlin (Android).
 * 🤖 **AI Integration:** Leveraging LLMs and Automation to transform business workflows.
-* 🎓 **Instructor:** Teaching and mentoring the next generation of developers across various Social Media Platforms.
+* 🎓 **Instructor:** Teaching and mentoring the next generation of developers across various social media platforms.
 
 ---
 
