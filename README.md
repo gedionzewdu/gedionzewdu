@@ -49,8 +49,8 @@ I am a dedicated **Full Stack & Mobile App Developer** with a passion for buildi
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gedionzewdu&show_icons=true&theme=tokyonight" alt="Gedion's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedionzewdu&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api?username=gedionzewdu&show_icons=true&theme=tokyonight" alt="Gedion's Stats" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gedionzewdu&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
 ---
