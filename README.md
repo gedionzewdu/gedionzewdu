@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a **Senior Full Stack Developer & Specialist Mobile App Engineer** with a passion for building scalable digital solutions and AI-driven experiences. Whether it's a high-performance web dashboard or a native mobile experience, I focus on clean code and exceptional UI/UX.
+I am a **Senior Full Stack Developer & Specialist Mobile App Engineer** with a passion for building scalable digital solutions, SaaS applications, and AI-driven experiences. Whether it's a high-performance web dashboard or a native mobile experience, I focus on clean code and exceptional UI/UX.
 
 * 🚀 **Professional Identity:** Operating as **Gedion Dev**, delivering premium software and AI solutions.
 * 🌐 **Web Expertise:** MERN Stack (MongoDB, Express, React, Node.js) & Next.js.
