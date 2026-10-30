@@ -1,12 +1,12 @@
 <h1 align="center">Hey 👋, I'm Gedion Zewdu</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Specialist+Mobile+App+Developer;AI+Solutions+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer;Specialist+Mobile+App+Developer;AI+Solutions+Architect" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-I am a **Senior Full Stack Developer & Specialist Mobile App Engineer** with a passion for building scalable digital solutions, SaaS applications, and AI-driven experiences. Whether it's a high-performance web dashboard or a native mobile experience, I focus on clean code and exceptional UI/UX.
+I am a **Senior Full Stack Software Engineer & Specialist Mobile App Developer** with a passion for building scalable digital solutions, SaaS applications, and AI-driven experiences. Whether it's a high-performance web dashboard or a native mobile experience, I focus on clean code and exceptional UI/UX.
 
 * 🚀 **Professional Identity:** Operating as **Gedion Dev**, delivering premium software and AI solutions.
 * 🌐 **Web Expertise:** MERN Stack (MongoDB, Express, React, Node.js) & Next.js.
